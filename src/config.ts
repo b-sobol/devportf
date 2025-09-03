@@ -6,7 +6,7 @@ export const siteConfig = {
   social: {
     email: "bartl.sobol@gmail.com",
     linkedin: "https://linkedin.com/in/bartłomiej-sobol",
-    github: "https://github.com/RyanFitzgerald", // update with your actual GitHub if different
+    github: "https://github.com/b-sobol", // update with your actual GitHub if different
   },
   aboutMe:
     "Experienced Data Engineer skilled in designing and optimizing data pipelines to ensure seamless data flow. Proficient in SQL and Python with a track record of implementing scalable solutions that enhance data integrity and support informed decision-making. Experienced in ETL design, SAP migrations, and automation of workflows to improve efficiency.",
