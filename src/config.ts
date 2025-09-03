@@ -95,9 +95,5 @@ export const siteConfig = {
       dateRange: "Oct 2016 - Jan 2021",
       achievements: [],
     },
-  ],
-  languages: [
-    { language: "Polish", level: "Native" },
-    { language: "English", level: "C1 - Advanced" },
-  ],
+  ]
 };
