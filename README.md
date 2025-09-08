@@ -178,6 +178,10 @@ Want to deploy somewhere else? Find more guides [here](https://docs.astro.build/
 
 To view the changelog, see CHANGELOG.md.
 
+## Credits
+This template was originally created by [Ryan Fitzgerald](https://github.com/RyanFitzgerald/devportfolio).  
+Thanks to Ryan for open-sourcing the foundation for this project.
+
 ## License
 
 This project is fully and completely MIT. See LICENSE.md.
