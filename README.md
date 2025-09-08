@@ -1,4 +1,14 @@
-<img width="1943" height="1093" alt="image" src="https://github.com/user-attachments/assets/cc2ff955-17c2-48c7-81c8-479a0f061850" />
+
+
+## Credits
+This template was originally created by [Ryan Fitzgerald](https://github.com/RyanFitzgerald/devportfolio).  
+Thanks to Ryan for open-sourcing the foundation for this project.
+> **📬 Connect & Share!**  
+> For questions and updates, feel free to reach out on [**X (Twitter)**](https://x.com/rfitzio).  
+> If you've built and published your personal site with this template, I'd love to see it! Send me a DM 🚀
+> ## Preview
+> To view a live preview of original site, [click here](https://ryanfitzgerald.github.io/devportfolio/).
+> <img width="1943" height="1093" alt="image" src="https://github.com/user-attachments/assets/cc2ff955-17c2-48c7-81c8-479a0f061850" />
 
 # DevPortfolio Template
 
@@ -8,13 +18,6 @@ This was completely rebuilt from the ground up from V1. This template was built 
 
 This template also comes with `CLAUDE.md` and `.cursor/rules` files for easy integration with your existing AI workflows.
 
-> **📬 Connect & Share!**  
-> For questions and updates, feel free to reach out on [**X (Twitter)**](https://x.com/rfitzio).  
-> If you've built and published your personal site with this template, I'd love to see it! Send me a DM 🚀
-
-## Preview
-
-To view a live preview of the site, [click here](https://ryanfitzgerald.github.io/devportfolio/).
 
 ## Built With
 
@@ -178,14 +181,7 @@ Want to deploy somewhere else? Find more guides [here](https://docs.astro.build/
 
 To view the changelog, see CHANGELOG.md.
 
-## Credits
-This template was originally created by [Ryan Fitzgerald](https://github.com/RyanFitzgerald/devportfolio).  
-Thanks to Ryan for open-sourcing the foundation for this project.
-
 ## License
 
 This project is fully and completely MIT. See LICENSE.md.
 
-## Questions?
-
-Feel free to reach out on [X (Twitter)](https://x.com/rfitzio) if you have any questions or need help.
