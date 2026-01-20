@@ -25,25 +25,56 @@ export const siteConfig = {
   ],
   projects: [
     {
+      name: "PL Housing Market Snapshot",
+      description:
+        "Self-hosted housing market dashboard that scrapes and aggregates public data, then processes and visualizes trends. Deployed on Raspberry Pi with Docker/Portainer.",
+      link: "https://plhousingdata.pl",
+      skills: [
+        "Raspberry Pi",
+        "Docker",
+        "Portainer",
+        "Portainer GitOps",
+        "Caddy",
+        "Python",
+        "Django",
+        "Django REST Framework",
+        "Uvicorn",
+        "Web Scraping",
+        "Data Visualization",
+      ],
+    },
+    {
       name: "ETL Pipeline Design & Maintenance",
       description:
         "Designed and maintained ETL processes ensuring data integrity, accuracy, and stability across multiple systems, including during SAP migrations.",
       link: "",
-      skills: ["Python", "SQL", "ETL", "SAP"],
+      skills: [
+        "Python",
+        "SQL",
+        "ETL",
+        "SAP"],
     },
     {
       name: "Data Validation & Monitoring System",
       description:
         "Implemented monitoring systems to validate large-scale data flows and ensure accuracy in global product catalog setup.",
       link: "",
-      skills: ["Python", "SQL", "Data Quality", "Power BI"],
+      skills: [
+        "Python",
+        "SQL",
+        "Data Quality",
+        "Power BI"],
     },
     {
       name: "Automation Tools & Reporting",
       description:
         "Developed Excel-integrated automation tools and Power Automate flows, enabling faster and more reliable data processing and reporting.",
       link: "",
-      skills: ["Python", "VBA", "Power Automate", "Excel"],
+      skills: [
+        "Python",
+        "VBA",
+        "PowerAutomate",
+        "Excel"],
     },
   ],
   experience: [
