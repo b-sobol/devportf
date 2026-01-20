@@ -28,7 +28,7 @@ export const siteConfig = {
       name: "PL Housing Market Snapshot",
       description:
         "Self-hosted housing market dashboard that scrapes and aggregates public data, then processes and visualizes trends. Deployed on Raspberry Pi with Docker/Portainer.",
-      link: "https://plhousingdata.pl",
+      link: "https://plhousingdata.com",
       skills: [
         "Raspberry Pi",
         "Docker",
